@@ -1,6 +1,7 @@
 import { Container } from '@/components/container';
 import { GameProps } from '@/utils/types/game';
 import { BsArrowRightSquare } from 'react-icons/bs';
+import { Input } from "@/components/input";
 
 import Link from 'next/link';
 import Image from 'next/image';
@@ -43,6 +44,7 @@ export default async function Home() {
             </div>
           </section>
         </Link>
+        <Input />
       </Container>
     </main>
   );
