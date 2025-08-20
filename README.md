@@ -56,7 +56,7 @@ npm install
 npm run dev
 ```
 
-O app estará disponível em `http://localhost:3000/`.
+O app estará disponível em `https://dalygames-tan.vercel.app/`.
 
 <br/>
 
@@ -77,5 +77,3 @@ Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE) para mais detalhe
 Feito com 💙 por [Davson Melo](https://github.com/DavsonMelo)
 
 ---
-
-Se quiser que eu ajuste imagens, seções ou detalhes específicos do projeto, só avisar!
