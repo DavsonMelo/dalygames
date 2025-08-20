@@ -1,7 +1,3 @@
-Aqui está um exemplo de README estilizado e moderno para seu projeto **dalygames**. Sinta-se livre para ajustar detalhes conforme desejar!
-
----
-
 # 🎮 DalyGames
 
 Projeto desenvolvido durante o curso de [Next.JS e React.JS](https://www.udemy.com/course/next-js-react-js/) ministrado por Matheus Fraga, também conhecido como **Sujeito Programador**.
@@ -9,7 +5,7 @@ Projeto desenvolvido durante o curso de [Next.JS e React.JS](https://www.udemy.c
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavsonMelo/dalygames/main/public/logo.png" alt="DalyGames Logo" width="160"/>
+  <img src="https://raw.githubusercontent.com/DavsonMelo/dalygames/main/public/logo.svg" alt="DalyGames Logo" width="160"/>
 </div>
 
 <br/>
