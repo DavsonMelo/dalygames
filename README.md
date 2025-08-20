@@ -4,7 +4,7 @@ Aqui está um exemplo de README estilizado e moderno para seu projeto **dalygame
 
 # 🎮 DalyGames
 
-Projeto desenvolvido durante o curso de [Next.JS e React.JS](https://www.udemy.com/course/next-js-react-js/) ministrado por Matheus Graga, também conhecido como **Sujeito Programador**.
+Projeto desenvolvido durante o curso de [Next.JS e React.JS](https://www.udemy.com/course/next-js-react-js/) ministrado por Matheus Fraga, também conhecido como **Sujeito Programador**.
 
 <br/>
 
