@@ -1,37 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Aqui está um exemplo de README estilizado e moderno para seu projeto **dalygames**. Sinta-se livre para ajustar detalhes conforme desejar!
 
-## Getting Started
+---
 
-First, run the development server:
+# 🎮 DalyGames
+
+Projeto desenvolvido durante o curso de [Next.JS e React.JS](https://www.udemy.com/course/next-js-react-js/) ministrado por Matheus Graga, também conhecido como **Sujeito Programador**.
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DavsonMelo/dalygames/main/public/logo.png" alt="DalyGames Logo" width="160"/>
+</div>
+
+<br/>
+
+## 🚀 Tecnologias Utilizadas
+
+- [Next.js](https://nextjs.org/)
+- [React.js](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/) *(se utilizar)*
+- [Vercel](https://vercel.com/) *(deploy)*
+
+<br/>
+
+## ✨ Funcionalidades
+
+- Cadastro e listagem de jogos
+- Interface moderna e responsiva
+- Integração com backend (se aplicável)
+- Filtros e buscas dinâmicas
+- Dark Mode *(se aplicável)*
+
+<br/>
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DavsonMelo/dalygames/main/public/screenshot1.png" width="600"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/DavsonMelo/dalygames/main/public/screenshot2.png" width="600"/>
+</div>
+
+<br/>
+
+## 🛠️ Como rodar o projeto
 
 ```bash
+# Clone o repositório
+git clone https://github.com/DavsonMelo/dalygames.git
+
+# Acesse a pasta
+cd dalygames
+
+# Instale as dependências
+npm install
+
+# Rode o projeto em modo desenvolvimento
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O app estará disponível em `http://localhost:3000/`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📚 Sobre o Curso
 
-## Learn More
+Este projeto faz parte dos exercícios do curso **Next.JS e React.JS** da Udemy, e tem como objetivo aplicar conceitos modernos de desenvolvimento front-end, incluindo roteamento, SSR, componentes reutilizáveis e estilização avançada.
 
-To learn more about Next.js, take a look at the following resources:
+<br/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📝 Licença
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
 
-## Deploy on Vercel
+<br/>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🙋‍♂️ Autor
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# dalygames
+Feito com 💙 por [Davson Melo](https://github.com/DavsonMelo)
+
+---
+
+Se quiser que eu ajuste imagens, seções ou detalhes específicos do projeto, só avisar!
